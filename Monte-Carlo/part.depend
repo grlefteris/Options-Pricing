@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1588284954 source:c:\users\user\desktop\ma417\ma417_partb\main.cpp
+	<iostream>
+	<cmath>
+	"matrix.h"
+	"cholesky.h"
+	"Sampler.h"
+	<ctime>
+
+1588286399 c:\users\user\desktop\ma417\ma417_partb\matrix.h
+
+1587802978 c:\users\user\desktop\ma417\ma417_partb\cholesky.h
+	<cmath>
+	"matrix.h"
+
+1580137362 c:\users\user\desktop\ma417\ma417_partb\sampler.h
+
+1580136440 source:c:\users\user\desktop\ma417\ma417_partb\sampler.cpp
+	"Sampler.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1588289634 source:c:\users\user\desktop\ma417_partb_source\main.cpp
+	<iostream>
+	<cmath>
+	"matrix.h"
+	"cholesky.h"
+	"Sampler.h"
+	<ctime>
+
+1588286399 c:\users\user\desktop\ma417_partb_source\matrix.h
+
+1587802978 c:\users\user\desktop\ma417_partb_source\cholesky.h
+	<cmath>
+	"matrix.h"
+
+1580137362 c:\users\user\desktop\ma417_partb_source\sampler.h
+
